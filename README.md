@@ -18,4 +18,4 @@ Este proyecto es un clon de Asteroid programado en Java. Controlas una nave espa
 - Sistema de vidas y game over.
 - Tabla de puntuaciones altas.
 
-
+Este proyecto fue hecho para la materia de Programación Orienta a Objetos por Emilio Zetina, Valeri Skirladze, Alfredo Vieto y Ricardo Restrepo
