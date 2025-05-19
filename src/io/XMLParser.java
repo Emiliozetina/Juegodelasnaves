@@ -1,5 +1,10 @@
 package io;
 
+
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
+
 import io.PuntajeData;
 import java.io.File;
 import java.io.FileInputStream;

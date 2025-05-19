@@ -1,5 +1,10 @@
 package estados;
 
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
+
+
 import graphics.Assets;
 import graphics.loader;
 import graphics.texto;

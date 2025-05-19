@@ -4,7 +4,9 @@ import java.awt.Font;
 import java.awt.image.BufferedImage;
 import javax.sound.sampled.Clip;
 
-
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
 
 public class Assets {
 	

@@ -11,6 +11,11 @@ import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;
 
 
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
+
+
 public class loader {
 	
 	public static BufferedImage ImageLoader(String path)

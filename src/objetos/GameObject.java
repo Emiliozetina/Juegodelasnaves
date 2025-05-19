@@ -2,7 +2,6 @@ package objetos;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
-
 import math.vector2D;
 
 public abstract class GameObject {

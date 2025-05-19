@@ -2,6 +2,11 @@ package objetos;
 
 import javax.swing.filechooser.FileSystemView;
 
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
+
+
 public class Constantes {
     
     //Dimensiones de la pestaña 

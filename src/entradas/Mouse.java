@@ -3,7 +3,9 @@ package entradas;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
 
 //Rastrea la posición del ratón y el estado del botón izquierdo del ratón.
 public class Mouse extends MouseAdapter {

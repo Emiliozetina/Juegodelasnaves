@@ -1,5 +1,9 @@
 package main;
 
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
+
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Dimension;

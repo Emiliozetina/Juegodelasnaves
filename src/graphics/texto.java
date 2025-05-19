@@ -6,6 +6,11 @@ import java.awt.FontMetrics;
 import java.awt.Graphics;
 import math.vector2D;
 
+//Eauipo numero 4 
+//Emilio Zetina, Valeri Skirlathze, Alfredo Vieto, Ricardo Restrepo 
+//Proyecto final de semestre para la materia de POO
+
+
 public class texto {
     public static void dibujartexto(Graphics g, String text, vector2D pos, boolean centro, Color color, Font fuente){
         g.setColor(color);
